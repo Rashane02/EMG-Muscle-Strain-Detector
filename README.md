@@ -44,7 +44,7 @@ This compact device uses **surface EMG signals** collected via wet electrodes to
 
 Here’s a visual representation of the signal flow and components:
 
-![Block Diagram](Images/block_diagram.png)
+![Block Diagram](Images/Block_diagram.png)
 
 ---
 
