@@ -1,0 +1,1 @@
+The device enclosure was designed using Solidworks. The STL design files are uploaded here.
