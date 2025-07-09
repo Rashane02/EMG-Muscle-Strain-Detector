@@ -57,7 +57,7 @@ Here’s a visual representation of the signal flow and components:
    - 🟡 Medium strain
    - 🔴 High strain
 
-> Ideal for biomedical labs, student demos, or EMG-related research projects!
+
 
 ---
 
