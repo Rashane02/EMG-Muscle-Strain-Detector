@@ -17,7 +17,7 @@ A fully analog EMG-based muscle strain detector with real-time LED feedback
 
 A **fully analog, wearable EMG-based muscle strain detector** that provides real-time LED feedback for monitoring muscle strain levels during physical activity or rehabilitation sessions.
 
-![Device View](Images/image_1.jpg)
+![](Images/image_1.jpg)
 
 ---
 
